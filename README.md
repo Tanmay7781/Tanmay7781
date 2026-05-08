@@ -15,6 +15,8 @@
 
 *Building worlds, breaking barriers, one commit at a time.*
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-shrivastava-7ab517328)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=C%2B%2B+%7C+Python+%7C+JavaScript;Game+Dev+%E2%86%92+Full+Stack+Journey;Cybersecurity+%26+Ethical+Hacking+Enthusiast;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
 </div>
@@ -112,7 +114,7 @@ tanmay = {
 
 <div align="center">
 
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Tanmay7781/)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
@@ -122,7 +124,7 @@ tanmay = {
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   Total Contributions  : 75+
   Game Dev Projects    : 2 repositories
-  LeetCode Solutions   : Multiple commits & counting
+  LeetCode Solutions   : 150+ problems solved & counting
   Status               : Actively building 🔨
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
@@ -143,6 +145,8 @@ tanmay = {
 ---
 
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-shrivastava-7ab517328)
 
 *"Every expert was once a beginner who refused to quit."*
 
